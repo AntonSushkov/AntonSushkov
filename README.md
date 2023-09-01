@@ -10,3 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonSushkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### :coin: Donate :
+0x51b7f952bf7b34f82e083067ef06dfd7f70eb381 (any evm)
+
