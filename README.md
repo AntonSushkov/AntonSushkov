@@ -14,10 +14,14 @@
 
 
 ### 🔥 My GitHub Stats:
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=AntonSushkov&theme=transparent&mode=weekly" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonSushkov&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonSushkov&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+<p align="left">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=AntonSushkov&theme=transparent&mode=weekly" alt="GitHub Streak" width="400"/>
+  </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonSushkov&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" width="400"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonSushkov&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="400"/>
 </p>
 
 ### 💰 Support Me:
